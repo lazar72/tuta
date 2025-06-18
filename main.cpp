@@ -1,4 +1,4 @@
-#include <bits/stdc++.h> // Uključuje sve standardne biblioteke
+#include <bits/stdc++.h> 
 using namespace std;
 
 /*
